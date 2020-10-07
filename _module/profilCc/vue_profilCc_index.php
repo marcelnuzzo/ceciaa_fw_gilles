@@ -1,0 +1,1 @@
+<h1>Vous êtes enregistré en tant que chargé client</h1>
